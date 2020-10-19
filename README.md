@@ -1,2 +1,2 @@
 # Some-Code
-# Some code from assignments in college
+# Some code from Next Gen Tech assignments in college
